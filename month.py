@@ -1,6 +1,6 @@
-import pandas as pd
-import plotly.express as px
-import streamlit as st
+import pandas as pd # type: ignore
+import plotly.express as px # type: ignore
+import streamlit as st # type: ignore
 
 def month(df_selection):
 
