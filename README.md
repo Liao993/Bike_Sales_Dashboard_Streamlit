@@ -10,9 +10,9 @@ This interactive dashboard examines 100,000 bike sales transactions to create an
 
 This project leverages key tools like Pandas for data processing, Streamlit for creating an interactive dashboard, and Plotly for dynamic data visualizations. This project highlights my proficiency in data analysis, interactive web development, and advanced visualization techniques, demonstrating my ability to deliver professional, data-driven solutions.
 
-## **Interactive Dashboard Demo**
+## **Interactive Dashboard**
 
-![Watch the video](demo.gif)
+![Dashboard](demo.png)
 
 ## **View More Projects**
 
