@@ -1,6 +1,6 @@
 # This dashboard was built with Streamlit.
 
-![Employment Overview](Employment.png)
+![Bike Sales](Bike_Sales.png)
 
 ## **Introduction and Goal**
 
@@ -9,6 +9,10 @@ This interactive dashboard examines 100,000 bike sales transactions to create an
 ## **Process and Tools**
 
 This project leverages key tools like Pandas for data processing, Streamlit for creating an interactive dashboard, and Plotly for dynamic data visualizations. This project highlights my proficiency in data analysis, interactive web development, and advanced visualization techniques, demonstrating my ability to deliver professional, data-driven solutions.
+
+## **Interactive Dashboard Demo**
+
+[Watch the video](demo.mov)
 
 ## **View More Projects**
 
