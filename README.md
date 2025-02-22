@@ -12,7 +12,7 @@ This project leverages key tools like Pandas for data processing, Streamlit for 
 
 ## **Interactive Dashboard Demo**
 
-[Watch the video](demo.mov)
+![Watch the video](demo.mov)
 
 ## **View More Projects**
 
